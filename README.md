@@ -35,3 +35,5 @@ As you can see, data structure of two sources are very different from each other
 - Appeand table
 - Group by
 - unpivote
+Sample of this project
+![Screenshot 2023-03-04 at 14 53 21](https://user-images.githubusercontent.com/65550422/222906325-c0f7f91d-0d39-40d1-8606-6e1bbb83ef1a.png)
