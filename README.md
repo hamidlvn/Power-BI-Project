@@ -7,6 +7,7 @@ This project is very simple with 3 goals consist of:
 - Data integration
 
 Some rows of txt files:
+
 CalendarYear;BillTo Target;Office
 2011;N/A 21;
 2011;Tailspin Toys 17;head office
@@ -16,6 +17,7 @@ CalendarYear;BillTo Target;Office
 2012;Wingtip Toys 12;head office
 
 Some rows of xlsvx file:
+
 	2015												2015 Total	2016	
 Row Labels	1	2	3	4	5	6	7	8	9	10	11	12		1	2
 N/A	1800000	1500000	1800000	2000000	1800000	1700000	2000000	1400000	1800000	1900000	1500000	1600000	20800000	1800000	1500000
@@ -35,5 +37,7 @@ As you can see, data structure of two sources are very different from each other
 - Appeand table
 - Group by
 - unpivote
+
+
 Sample of this project
 ![Screenshot 2023-03-04 at 14 53 21](https://user-images.githubusercontent.com/65550422/222906325-c0f7f91d-0d39-40d1-8606-6e1bbb83ef1a.png)
