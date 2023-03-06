@@ -1,6 +1,6 @@
 # **Hello**
 
-This project is very simple with 3 goals consist of:
+This project is very simple with 3 goals consist of (Data Transformation):
 - Get data from two sources (txt,xlsvx)
 - Data cleaning
 - Modify the data structure
